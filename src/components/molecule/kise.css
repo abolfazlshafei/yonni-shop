@@ -1,0 +1,12 @@
+.kiss {
+  padding: 5px;
+  background-color: rgb(241, 241, 241);
+  height: 300px;
+}
+
+.kiss-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: center;
+}

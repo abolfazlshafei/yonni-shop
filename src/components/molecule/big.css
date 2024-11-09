@@ -1,0 +1,23 @@
+.big {
+  padding: 5px;
+  height: 510px;
+
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 290px;
+}
+
+.big-1 {
+  font-size: 13px;
+  padding: 5px;
+  font-weight: 500;
+}
+
+.big-title {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}

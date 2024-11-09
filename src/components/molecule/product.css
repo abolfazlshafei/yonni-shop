@@ -1,0 +1,13 @@
+.detail {
+  padding: 5px;
+  background-color: rgb(235, 235, 235);
+
+  height: 6rem;
+}
+
+.detail-nav {
+  display: flex;
+  margin-top: 10px;
+  padding: 5px;
+  justify-content: space-evenly;
+}

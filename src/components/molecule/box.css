@@ -1,0 +1,26 @@
+.box {
+  width: 290px;
+  height: 299px;
+  padding: 5px;
+  background-color: #f43c3c;
+  border-radius: 4px;
+  justify-content: center;
+  display: flex;
+}
+
+.box-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.box-product {
+  width: 284px;
+  padding: 3px;
+  border-radius: 5px;
+  height: 210px;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
